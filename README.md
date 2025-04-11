@@ -4,4 +4,4 @@
 Institute of Information Engineering, Chinese Academy of Sciences  
 Advisor: Prof. Xiaofei Zhou  
 
-[Email](mailto:your@email.com) | [GitHub](https://github.com/chuheng-chen) | [Google Scholar](你的学术主页链接)
+[Email](chenchuheng@iie.ac.cn) | [GitHub](https://github.com/chuheng-chen) 
